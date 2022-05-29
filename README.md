@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sonali-Kumar
-- 👀 I’m interested in growing myself
-- 🌱 I’m currently learning SQL, Power BI, and Emotional Intelligence
-- 💞️ I’m looking to collaborate on new projects - fairly new to this platform
-- 📫 How to reach me 
+- 👀 I’m interested in People Analytics
+- 🌱 I’m currently learning SQL, Tableau, PowerBI in my free time
+- 💞️ I’m looking to collaborate on new projects, focusing on Organization Development, Employee Development, Health & Wellness.
+- 📫 You can connect with me on LinkedIn:https://www.linkedin.com/in/kumar-sonali/
 
 <!---
 Sonali-Kumar/Sonali-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
